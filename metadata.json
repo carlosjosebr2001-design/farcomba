@@ -1,0 +1,6 @@
+{
+  "name": "FARCOM-BA - Federação das Associações de Rádio e Comunicação Comunitária da Bahia",
+  "description": "Portal oficial da FARCOM-BA: Conteúdos de áudio, Programa Fala Bahia, cadastro de emissoras, área do cliente, filiação, notícias e classificados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
